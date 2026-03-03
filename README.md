@@ -4,8 +4,9 @@
 
 This repository represents the **Data Visualization** phase of the **Global Tourism Statistics** project. 
 It follows the  
-[Data Warehouse (DWH)](https://github.com/Daniele1388/DWH---Global-Tourism-Project), 
-[Exploratory Data Analysis (EDA)](https://github.com/Daniele1388/EDA---Global-Tourism-Project),   
+[Data Warehouse (DWH)](https://github.com/Daniele1388/DWH---Global-Tourism-Project) and
+[Exploratory Data Analysis (EDA)](https://github.com/Daniele1388/EDA---Global-Tourism-Project),
+and precedes the
 [Advanced Analytics](https://github.com/Daniele1388/ADVANCED-ANALYTICS---Global-Tourism-Project).  
 
 While the **DWH** defines the data structure and the **EDA** validates data quality and consistency,  
