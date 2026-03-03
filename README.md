@@ -60,8 +60,8 @@ Global Tourism Statistics Project
 │
 ├── Data Warehouse (DWH)
 ├── Exploratory Data Analysis (EDA)
-├── Data Visualization
-└── Advanced Analytics
+├── Advanced Analytics
+└── Data Visualization
 ```
 
 ---
