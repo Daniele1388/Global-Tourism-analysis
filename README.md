@@ -75,6 +75,12 @@ Global Tourism Statistics Project
 
 ---
 
+## License
+
+This repository is part of the **Global Tourism Statistics** ecosystem and released under the **MIT License**.  
+
+---
+
 ## About Me
 
 Hi, I’m **Daniele Amoroso**   
