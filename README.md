@@ -72,3 +72,13 @@ Global Tourism Statistics Project
 - **EDA** → Data validation and structural checks  
 - **Advanced Analytics** → Segmentation and performance metrics   
 - **Data Visualization** → Graphical interpretation of trends
+
+---
+
+## About Me
+
+Hi, I’m **Daniele Amoroso**   
+I like working with data and I’m interested in Data Analytics, Data Science, and AI Automation. 
+I build data projects to understand information and find insights.
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/daniele-a-080786b7/).
